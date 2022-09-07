@@ -28,6 +28,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 21 hrs 33 mins
+
+TypeScript   15 hrs 38 mins  ██████████████████░░░░░░░   72.37 %
+Terraform    4 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Go           46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+YAML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Makefile     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Badges
