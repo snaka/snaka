@@ -30,14 +30,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 21 hrs 33 mins
+Total Time: 26 hrs 13 mins
 
-TypeScript   15 hrs 38 mins  ██████████████████░░░░░░░   72.37 %
-Terraform    4 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Go           46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-YAML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Makefile     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+TypeScript   16 hrs 5 mins   ███████████████▒░░░░░░░░░   61.06 %
+Terraform    4 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+Go           2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+YAML         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Makefile     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
