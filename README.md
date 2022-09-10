@@ -1,9 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is snaka
-=============================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is snaka
 
-* 🌍  I'm based in Tokyo, Japan
-* ✉️  You can contact me at [snaka@hey.com](mailto:snaka@hey.com)
-* 🧠  I'm learning TypeScript, Go, etc.
+- 🌍  I'm based in Tokyo, Japan
+- ✉️  You can contact me at [snaka@hey.com](mailto:snaka@hey.com)
+- 🧠  I'm learning TypeScript, Go, etc.
 
 ### Skills
 
@@ -19,7 +18,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-
 
 ### Socials
 
@@ -41,6 +39,11 @@ JSON         22 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<img
+  src="https://github.com/snaka/snaka/blob/main/images/stat.svg"
+  alt="Wakatime coding stats"
+/>
 
 ### Badges
 
