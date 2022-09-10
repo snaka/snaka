@@ -25,21 +25,6 @@
 
 ### Coding Stats
 
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 29 hrs 35 mins
-
-TypeScript   16 hrs 36 mins  ██████████████░░░░░░░░░░░   55.63 %
-Go           5 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-Terraform    4 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-YAML         1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-Makefile     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-```
-
-<!--END_SECTION:waka-->
-
 <img
   src="https://github.com/snaka/snaka/blob/main/images/stat.svg"
   alt="Wakatime coding stats"
