@@ -19,7 +19,7 @@ jobs:
     name: Update the WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: snaka/Profile-Readme-WakaTime@test-for-range-parameter
+      - uses: snaka/Profile-Readme-WakaTime@feature/add-range-parameter
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token}}
