@@ -6,18 +6,29 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,ruby,ts,react,nextjs,html,css,nodejs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ruby,ts,react,nextjs,html,css,nodejs,mysql,docker,rails,aws,terraform)](https://skillicons.dev)
 
 ### Socials
 
 <div align="left">
   <p align="left">
     <a href="https://www.dev.to/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dev.to-snaka-black?logo=devdotto&logoColor=white" alt="DEV"></a>
+    &nbsp;
     <a href="https://www.facebook.com/shinji.nakamatsu" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
+    &nbsp;
     <a href="https://www.github.com/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub"></a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/shinji-nakamatsu-59540252/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    &nbsp;
     <a href="https://scrapbox.io/api/feed/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/RSS-FF6600?logo=rss&logoColor=white" alt="RSS"></a>
+    &nbsp;
     <a href="https://www.twitter.com/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" alt="Twitter"></a>
+    &nbsp;
+    <a href="https://bsky.app/profile/snaka.bsky.social" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white" alt="Bluesky"></a>
+    &nbsp;
+    <a href="https://qiita.com/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white" alt="Qiita"></a>
+    &nbsp;
+    <a href="https://zenn.dev/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zenn-3EA8FF?logo=zenn&logoColor=white" alt="Zenn"></a>
   </p>
 </div>
 
