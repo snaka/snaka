@@ -6,22 +6,31 @@
 
 ### Skills
 
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=go,js,ruby,ts,react,nextjs,html,css,nodejs,mysql,docker,rails,aws,terraform)](https://skillicons.dev)
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/snaka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/shinji.nakamatsu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/snaka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shinji-nakamatsu-59540252/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://scrapbox.io/api/feed/snaka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/snaka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<div align="left">
+  <p align="left">
+    <a href="https://www.dev.to/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dev.to-snaka-black?logo=devdotto&logoColor=white" alt="DEV"></a>
+    &nbsp;
+    <a href="https://www.facebook.com/shinji.nakamatsu" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
+    &nbsp;
+    <a href="https://www.github.com/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub"></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/shinji-nakamatsu-59540252/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    &nbsp;
+    <a href="https://scrapbox.io/api/feed/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/RSS-FF6600?logo=rss&logoColor=white" alt="RSS"></a>
+    &nbsp;
+    <a href="https://www.twitter.com/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" alt="Twitter"></a>
+    &nbsp;
+    <a href="https://bsky.app/profile/snaka.bsky.social" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white" alt="Bluesky"></a>
+    &nbsp;
+    <a href="https://qiita.com/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white" alt="Qiita"></a>
+    &nbsp;
+    <a href="https://zenn.dev/snaka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zenn-3EA8FF?logo=zenn&logoColor=white" alt="Zenn"></a>
+  </p>
+</div>
 
 ### Coding Stats
 
