@@ -19,7 +19,7 @@ The WakaTime, GitHub Stats, and Top Languages cards in `README.md` point at a **
 - **Fork**: `snaka/github-readme-stats` (master branch auto-deploys)
 - **Vercel project**: `github-readme-stats` under `snaka's projects` (Hobby plan)
 - **Production domain in README**: `github-readme-stats-ashen-two-69.vercel.app`
-- **Streak Stats** (`github-readme-streak-stats.herokuapp.com`) and **Activity Graph** (`github-readme-activity-graph.cyclic.app`) are still on their respective public instances — they are different projects, not part of github-readme-stats.
+- **Streak Stats** (`github-readme-streak-stats.herokuapp.com`) and **Activity Graph** (`github-readme-activity-graph.vercel.app`) are still on their respective public instances — they are different projects, not part of github-readme-stats. The Activity Graph used to live at `*.cyclic.app` but Cyclic.sh shut down their PaaS, so the project moved to Vercel; if that public instance ever goes DEPLOYMENT_PAUSED too, self-host it the same way as github-readme-stats (fork `Ashutosh00710/github-readme-activity-graph`, deploy on personal Vercel).
 
 ### PAT_1 rotation
 
