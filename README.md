@@ -34,7 +34,7 @@
 
 ### Coding Stats
 
-<a href="https://wakatime.com/@snaka"><img src="https://github-readme-stats-ashen-two-69.vercel.app/api/wakatime?username=snaka&layout=compact&range=last_7_days&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=WakaTime%20Last%207%20Days" alt="WakaTime coding stats" /></a>
+<a href="https://wakatime.com/@snaka"><img src="https://github-readme-stats-ashen-two-69.vercel.app/api/wakatime?username=snaka&layout=compact&range=last_7_days&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=WakaTime%20Last%207%20Days&_cachebust=20260503" alt="WakaTime coding stats" /></a>
 
 ### Badges
 
